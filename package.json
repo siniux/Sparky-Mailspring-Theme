@@ -1,0 +1,14 @@
+{
+  "name": "mailspring-theme-sparky",
+  "displayName": "Sparky",
+  "theme": "sparky",
+  "version": "1.0.0",
+  "description": "mailspring-theme-sparky",
+  "license": "GPL-3.0",
+  "engines": {
+    "nylas": "*",
+    "mailspring": "*"
+  },
+  "private": true
+}
+
