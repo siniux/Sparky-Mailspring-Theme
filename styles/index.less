@@ -1,0 +1,27 @@
+@import "sparky-variables";
+@import "sparky-window-controls";
+@import "sparky-toolbars";
+@import "sparky-threadlist";
+@import "sparky-composer";
+@import "sparky-drafts";
+@import "sparky-inputs";
+@import "sparky-message-list";
+@import "sparky-sidebar";
+@import "sparky-swiping";
+@import "sparky-thread-icons";
+
+@component-active-color: @accent;
+@panel-background-color: @sidebar;
+
+.preferences-sidebar,
+.preferences-content {
+  background: @messagelist-bg;
+}
+
+.preferences-wrap .preferences-content > .scroll-region-content {
+  padding-bottom: 100px;
+}
+
+html {
+	font-family: 'Nylas-Pro', 'Helvetica', sans-serif !important;
+}
