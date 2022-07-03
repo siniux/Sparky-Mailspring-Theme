@@ -2,7 +2,7 @@
 A Spark inspired Mailspring Theme
 
 # Screenshots
-https://github.com/siniux/Sparky-Mailspring-Theme/blob/main/screenshot/ss1.jpg
+![Sparky Mailspring Theme](https://github.com/siniux/Sparky-Mailspring-Theme/blob/main/screenshot/ss1.jpg?raw=true)
 
 # How to install?
 1. Download a ZIP file of the latest release by clicking on the green button **Code**, **Download ZIP**
